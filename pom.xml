@@ -9,6 +9,6 @@
     <version>0.0.3-SNAPSHOT</version>
 	<modules>
         <module>wknd</module> 
-	<module>dispatcher</module> 
+	    <module>dispatcher</module> 
    </modules>
 </project>
